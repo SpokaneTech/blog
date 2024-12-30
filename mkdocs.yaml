@@ -27,14 +27,16 @@ nav:
   - Home: index.md
   - Building Spokane Tech:
       - "Introduction": building-spokane-tech/intro.md
-      - "Part 1: Setup": building-spokane-tech/part-01.md
+      - "Part 1: Tech Stack": building-spokane-tech/part-01.md
       - "Part 2: Project Structure": building-spokane-tech/part-02.md
-      - "Part 3: Data Modeling": building-spokane-tech/part-03.md
-      - "Part 4: Initial GUI": building-spokane-tech/part-04.md
-      - "Part 5: Data Collection": building-spokane-tech/part-05.md
-      - "Part 6: Scheduling Tasks": building-spokane-tech/part-06.md
-      - "Part 7: Hosting": building-spokane-tech/part-07.md
-      - "Part 8: CI/CD": building-spokane-tech/part-08.md
+      - "Part 3: Running Locally": building-spokane-tech/part-03.md
+      - "Part 4: Data Modeling": building-spokane-tech/part-04.md
+      - "Part 5: Initial GUI": building-spokane-tech/part-05.md
+      - "Part 6: Data Collection": building-spokane-tech/part-06.md
+      - "Part 7: Scheduling Tasks": building-spokane-tech/part-07.md
+      - "Part 8: Hosting": building-spokane-tech/part-08.md
+      - "Part 9: Adding Docker": building-spokane-tech/part-09.md
+      - "Part 10: CI/CD": building-spokane-tech/part-10.md
       - "Related Materials": building-spokane-tech/related-materials.md
 
 plugins:
