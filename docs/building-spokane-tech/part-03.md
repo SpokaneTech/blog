@@ -41,7 +41,7 @@ venv\Scripts\activate
 pip install .[dev]
 ```
 
-### Create an .env.local file from the .env.template file and update contents as applicable (optional)
+### Create an .env.local file from the .env.template file and update contents as applicable
 ```
 cp src/envs/.env.template src/envs/.env.local
 ```
@@ -71,9 +71,12 @@ python ./manage.py runscript generate_dev_data
 python ./manage.py runserver
 ```
 
-open a browser and navigate to http://127.0.0.1:8000 (log in with admin/admin)
+### Explore the site
+open a browser and navigate to http://127.0.0.1:8000
 
 ** you can stop the local demo server anytime via ```ctrl + c ```
+
+** you can login to the django admin page (at http://127.0.0.1:8000) using admin/admin
 
 ## **Enable Git Hooks (optional)**
 ### git config

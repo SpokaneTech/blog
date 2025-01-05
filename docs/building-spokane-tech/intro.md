@@ -9,7 +9,7 @@ The Spokane Tech website is a project for the community made by the community. T
 There is a thriving tech community in Spokane, but many members of our community are disconnected. With multiple tech groups on different platforms, such as meetup and eventbright, there are often events of interest happening that many tech enthusiasts are not aware of. The intent is to have a single resource that includes local tech groups and the events they host.
 
 ### Reason 2:
-Many developers in our community, especially those earlier in thier career, have skills and drive, but haven't had the opportunity to work on a project in a real professional environment. For example, a developer could have great knowledge in coding, but hasn't yet had the first professional job or participated in project with milestones, project planning, code reviews, etc. The Spokane Tech project aims to provide this and give contributes a project they can reference for career development, personal portfolios, interviews, etc. 
+Many developers in our community, especially those earlier in their career, have skills and drive, but haven't had the opportunity to work on a project in a real professional environment. For example, a developer could have great knowledge in coding, but hasn't yet had the first professional job or participated in project with milestones, project planning, code reviews, etc. The Spokane Tech project aims to provide this and give contributes a project they can reference for career development, personal portfolios, interviews, etc. 
 
 
 ## **Initial Vision**

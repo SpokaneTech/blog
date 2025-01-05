@@ -1,11 +1,12 @@
-# Building Spokane Tech: Related Materials
+# **Building Spokane Tech: Related Materials**
 
-## Technical References
+## **Technical References**
 
-- Python [https://www.python.org/](https://www.python.org/)
+- Celery [https://docs.celeryq.dev](https://docs.celeryq.dev/en/stable/)
 - Django [https://www.djangoproject.com/](https://www.djangoproject.com/)
 - Docker [https://www.docker.com/](https://www.docker.com/)
-- Postgres [https://www.postgresql.org/](https://www.postgresql.org/)
-- Redis [https://redis.io/](https://redis.io/)
-- Celery [https://docs.celeryq.dev](https://docs.celeryq.dev/en/stable/)
+- FontAwesome [https://fontawesome.com/](https://fontawesome.com/)
 - HTMX [https://htmx.org/](https://htmx.org/)
+- Postgres [https://www.postgresql.org/](https://www.postgresql.org/)
+- Python [https://www.python.org/](https://www.python.org/)
+- Redis [https://redis.io/](https://redis.io/)
