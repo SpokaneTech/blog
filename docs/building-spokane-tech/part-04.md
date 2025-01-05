@@ -16,8 +16,10 @@ The initial release of spokanetech.org will include five models in the web appli
 
 **TechGroup:** A local tech group that organizes events
 
+Each of these models use the HandyHelperBaseModel which includes created_at and updated_at datetime fields and a model manager that provides a number of useful methods.
 
 ## **Model Code**
+Below is a snapshot of the model code. See [github](https://github.com/SpokaneTech/SpokaneTechWeb/blob/main/src/django_project/web/models.py) for the latest and complete model code.
 
 ### ***Event***
 ```python

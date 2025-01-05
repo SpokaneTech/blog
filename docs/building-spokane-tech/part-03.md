@@ -57,11 +57,13 @@ python./manage.py migrate
 ```
 
 ### Create a local admin user
+This command creates a superuser superuser in your database and adds the user to the admin group. The username is 'admin' and the password is 'admin'
 ```
 python ./manage.py add_superuser --group admin
 ```
 
 ### Generate some local test data
+This command populates your local database with SocialPlatform and TechGroup data, and will ingest events (if available) from Meetup.com 
 ```
 python ./manage.py runscript generate_dev_data
 ```
