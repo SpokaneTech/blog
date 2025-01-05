@@ -31,7 +31,7 @@ nav:
       - "Part 2: Project Structure": building-spokane-tech/part-02.md
       - "Part 3: Running Locally": building-spokane-tech/part-03.md
       - "Part 4: Data Modeling": building-spokane-tech/part-04.md
-      - "Part 5: Initial GUI": building-spokane-tech/part-05.md
+      - "Part 5: GUI": building-spokane-tech/part-05.md
       - "Part 6: Data Collection": building-spokane-tech/part-06.md
       - "Part 7: Scheduling Tasks": building-spokane-tech/part-07.md
       - "Part 8: Adding Docker": building-spokane-tech/part-09.md
