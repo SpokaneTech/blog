@@ -23,6 +23,7 @@ theme:
       toggle:
         icon: material/lightbulb
         name: Switch to light mode
+
 nav:
   - Home: index.md
   - Building Spokane Tech:
@@ -41,3 +42,8 @@ nav:
 
 plugins:
   - search
+
+extra:
+  analytics:
+    provider: google
+    property: G-4W5GBEBVTQ
