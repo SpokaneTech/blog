@@ -8,5 +8,6 @@
 - FontAwesome [https://fontawesome.com/](https://fontawesome.com/)
 - HTMX [https://htmx.org/](https://htmx.org/)
 - Postgres [https://www.postgresql.org/](https://www.postgresql.org/)
+- PlayWright [https://playwright.dev/python/](https://playwright.dev/python/)
 - Python [https://www.python.org/](https://www.python.org/)
 - Redis [https://redis.io/](https://redis.io/)

@@ -27,6 +27,7 @@ Below is an overview of the repository structure.
 │   │   └── Dockerfile
 │   └── envs
 │       └── .env.template
+├── .dockerignore
 ├── .gitignore
 ├── LICENSE
 ├── README.md

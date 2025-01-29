@@ -12,7 +12,7 @@ Welcome to part 3 of the "Building Spokane Tech" series! In this article, we go 
 
 ### Cloning the Repo
 ```
-git git@github.com:SpokaneTech/SpokaneTechWeb.git
+git clone git@github.com:SpokaneTech/SpokaneTechWeb.git
 ```
 
 ### cd into the repo directory
@@ -41,6 +41,12 @@ venv\Scripts\activate
 pip install .[dev]
 ```
 
+### Install playwright dependencies 
+Playwright is used for scraping web data from meetup.com
+```
+playwright install --with-deps
+```
+
 ### Create an .env.local file from the .env.template file and update contents as applicable
 ```
 cp src/envs/.env.template src/envs/.env.local
@@ -62,11 +68,18 @@ This command creates a superuser superuser in your database and adds the user to
 python ./manage.py add_superuser --group admin
 ```
 
-### Generate some local test data
-This command populates your local database with SocialPlatform and TechGroup data, and will ingest events (if available) from Meetup.com 
+### Populate some local test data
+This command populates your local database with SocialPlatform and TechGroup data:
 ```
-python ./manage.py runscript generate_dev_data
+python ./manage.py runscript initialize_data
 ```
+
+If you'd like to ingest some actual future events data from Eventbrite and Meetup, run this command:
+```
+python ./manage.py runscript ingest_events
+```
+
+
 
 ### Start the local demo server
 ```
