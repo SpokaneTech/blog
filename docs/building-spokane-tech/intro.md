@@ -3,7 +3,7 @@
 The Spokane Tech website is a project for the community made by the community. The aim of the project is to deliver a community resource for all things tech in the Inland Northwest while providing an opportunity for contributes to gain real-world experience in a shared open source project.
 
 
-## **What are doing this?**
+## **Why are we doing this?**
 
 ### Reason 1:
 There is a thriving tech community in Spokane, but many members of our community are disconnected. With multiple tech groups on different platforms, such as meetup and eventbright, there are often events of interest happening that many tech enthusiasts are not aware of. The intent is to have a single resource that includes local tech groups and the events they host.
