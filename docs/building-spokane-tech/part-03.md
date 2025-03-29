@@ -38,7 +38,7 @@ venv\Scripts\activate
 
 ### Install the python dependencies
 ```
-pip install .[dev]
+pip install '.[dev]'
 ```
 
 ### Install playwright dependencies 
