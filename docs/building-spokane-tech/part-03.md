@@ -59,7 +59,7 @@ cd src/django_project
 
 ### Create a local database by running django migrations
 ```
-python./manage.py migrate
+python ./manage.py migrate
 ```
 
 ### Create a local admin user
