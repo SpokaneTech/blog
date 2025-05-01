@@ -38,7 +38,7 @@ venv\Scripts\activate
 
 ### Install the python dependencies
 ```
-pip install .[dev]
+pip install '.[dev]'
 ```
 
 ### Install playwright dependencies 
@@ -59,7 +59,7 @@ cd src/django_project
 
 ### Create a local database by running django migrations
 ```
-python./manage.py migrate
+python ./manage.py migrate
 ```
 
 ### Create a local admin user
