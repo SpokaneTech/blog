@@ -38,8 +38,9 @@ venv\Scripts\activate
 
 ### Install the python dependencies
 ```
-pip install '.[dev]'
+pip install .[dev]
 ```
+** mac users may need to quote the pip install like so: ```pip install '.[dev]'```
 
 ### Install playwright dependencies 
 Playwright is used for scraping web data from meetup.com
