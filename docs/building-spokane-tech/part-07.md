@@ -2,6 +2,10 @@
 
 Welcome to part 7 of the "Building Spokane Tech" series! In this article, we'll explore integrating Celery for scheduling tasks, executing work asynchronously, and monitoring task statuses.
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Django Tasks and Celery**
 

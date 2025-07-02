@@ -2,6 +2,10 @@
 
 Welcome to part 3 of the "Building Spokane Tech" series! In this article, we go through steps to get the web app running locally on your machine or environment.
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Prerequisites**
 - git installed on system

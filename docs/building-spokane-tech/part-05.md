@@ -2,6 +2,10 @@
 
 Welcome to part 5 of the "Building Spokane Tech" series! In this article, we'll explore the django views and templates used to server web pages in the initial web app. 
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Pages**
 The initial release of spokanetech.org includes a small set of pages, including the landing page, an about page, a calendar page, and event and group pages. Here is a brief description of each page:
