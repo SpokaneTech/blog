@@ -2,6 +2,10 @@
 
 Welcome to part 6 of the "Building Spokane Tech" series! In this article, we'll look at how to scrape group and event data from meetup.com and eventbrite.com and populate our database accordingly. 
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Source Data**
 There are a couple platforms that tech groups are currently utilizing, with the majority being on meetup.com and eventbrite.com. We'll focus on collecting group and event data from those two platforms and address data sourcing from additional platforms as future needs dictate. 

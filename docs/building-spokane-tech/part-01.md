@@ -1,6 +1,10 @@
 # **Building Spokane Tech: Part 1**
 
-Welcome to the first part of the "Building Spokane Tech" series! In this article, we explore the tech stack, design decisions, and how to run the site locally on your system.
+Welcome to the first part of the "Building Spokane Tech" series! In this article, we explore the tech stack, and design decisions.
+
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
 
 ## **Requirements**
 For the first phase of our project we want to identify all the tech related community groups in the Spokane area, gather data about them and ingest and present events they host in one location. To make this happen we'll need a couple things. 

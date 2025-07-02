@@ -2,6 +2,10 @@
 
 Welcome to part 9 of the "Building Spokane Tech" series! In this article, we'll optimize our Docker file for size and efficiency.
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Optimizing Your Django Docker Images: The Power of Multi-Stage Builds**
 At SpokaneTech.org, we're always looking for ways to improve our development and deployment processes. A cornerstone of modern web application deployment is containerization, and for that, we rely on Docker. Docker allows us to package our Django application with all of its dependencies into a single, portable container.

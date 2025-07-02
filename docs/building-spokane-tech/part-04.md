@@ -2,6 +2,10 @@
 
 Welcome to part 4 of the "Building Spokane Tech" series! In this article, we look at the initial modeling for the web app. 
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Initial Django Models**
 The initial release of spokanetech.org will include five models in the web application: Event, Link, SocialPlatform, Tag, and TechGroup. Let's breakdown the role of each.

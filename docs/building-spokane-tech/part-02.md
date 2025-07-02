@@ -2,6 +2,10 @@
 
 Welcome to part 2 of the "Building Spokane Tech" series! In this article, we walk though the layout of the repository and detail what code lives where.
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Repository Structure**
 

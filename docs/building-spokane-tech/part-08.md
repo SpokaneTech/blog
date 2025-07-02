@@ -4,6 +4,10 @@ Welcome to part 8 of the "Building Spokane Tech" series! In this article, we'll 
 
 Containerization has become an essential tool for modern web development, and Docker is at the forefront of this revolution. When developing a Django-based web application like ours, using Docker ensures consistency across development and deployed environments. By leveraging Docker Compose, we can efficiently manage multiple services required by our application.
 
+> See the live site at: [https://www.spokanetech.org](https://www.spokanetech.org)
+
+> See the latest code on: [github](https://github.com/SpokaneTech/SpokaneTechWeb)
+
 
 ## **Docker Compose**
 Docker Compose is a tool that allows you to define and manage multi-container Docker applications using a simple YAML file (docker-compose.yaml). It enables developers to run interconnected services, such as a web application, database, and message broker, with a single command. The  Docker Compose basic concepts include:
